@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0 5%; /* 为页面左右添加 5% 的内边距,以实现文字内容和分割线的缩进效果 */
+  color: #333;
+}
+/* header添加20px的外边距 */
+header {
+  margin: 20px;
+}
+/* h1设置字体大小并清除内边距 */
+h1 {
+  font-size: 2em;
+  margin: 0;
+}
+/* 副标题,展示职位信息 */
+.subtitle {
+  color: green;
+  font-weight: bold;
+}
+
+address {
+  font-style: normal;
+  line-height: 1.5;
+}
+
+/* 厚分割线 */
+.bold-hr {
+  border: 2px solid black;
+  margin: 20px auto;
+  width: 100%; /* 分割线宽度与文字对齐 */
+}
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  color: green;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 5px;
+}
+
+h3 {
+  margin: 10px 0;
+}
+
+ul {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  margin: 20px 0;
+}
