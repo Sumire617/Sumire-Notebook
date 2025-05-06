@@ -1,0 +1,102 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.container {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px 40px;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.timeline {
+  position: relative;
+  margin: 20px 0;
+  padding-left: 0; /* 移除左侧填充 */
+}
+
+.timeline-item {
+  display: flex;
+  align-items: center; /* 垂直居中对齐 */
+  margin-bottom: 20px;
+  padding: 20px 0; /* 上下填充 */
+  position: relative;
+}
+/* 移除最后一个子项的下边距 */
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+/* 时间点 */
+.timeline-item::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background: #000;
+  /* 圆角化,让其看起来像个点 */
+  border-radius: 50%;
+  position: absolute;
+  left: 160px; /* 调整位置到两个 span 中间 */
+  top: 50%; /* 垂直居中 */
+  transform: translateY(-50%);
+}
+/* 时间线 */
+.timeline-item::after {
+  content: "";
+  width: 2px;
+  background: #000;
+  position: absolute;
+  left: 165px; /* 调整位置到两个 span 中间 */
+  top: 0;
+  bottom: -20px; /* 向下延伸 */
+}
+.date {
+  font-size: 13px;
+  color: #888;
+  margin-right: 20px; /* 增加间距 */
+  flex-shrink: 0;
+  width: 150px;
+  text-align: right;
+}
+
+.description {
+  font-size: 16px;
+  text-align: left;
+  margin-left: 20px; /* 增加间距 */
+}
+
+.button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: #444;
+}
