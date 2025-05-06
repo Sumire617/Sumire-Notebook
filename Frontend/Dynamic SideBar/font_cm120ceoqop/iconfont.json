@@ -1,0 +1,198 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "42991431",
+      "name": "设备信息管理",
+      "font_class": "shebeixinxiguanli-moren",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "42991448",
+      "name": "设备告警管理",
+      "font_class": "shebeigaojingguanli",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "42991467",
+      "name": "能耗管理",
+      "font_class": "shebeinenghaoguanli-moren",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "42991468",
+      "name": "运行管理",
+      "font_class": "shebeiyunhangguanli-moren",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "42991562",
+      "name": "设备维护管理",
+      "font_class": "shebeiweihuguanli-moren",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "42991563",
+      "name": "设备维修管理",
+      "font_class": "shebeiweixiuguanli-moren",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "42992494",
+      "name": "系统初始化",
+      "font_class": "xitongchushihua-moren",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "42992495",
+      "name": "系统管理",
+      "font_class": "xitongguanli-moren",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "42992520",
+      "name": "产品管理",
+      "font_class": "chanpinguanli",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "42992521",
+      "name": "工艺建模",
+      "font_class": "gongyijianmo",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "42992522",
+      "name": "基础建模",
+      "font_class": "jichujianmo",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "42992523",
+      "name": "基础数据",
+      "font_class": "jichushuju",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "42992524",
+      "name": "配置工具",
+      "font_class": "peizhigongju",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "42992526",
+      "name": "文件管理",
+      "font_class": "wenjianguanli",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "42992527",
+      "name": "物料管理",
+      "font_class": "wuliaoguanli",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "42992528",
+      "name": "消息管理",
+      "font_class": "xiaoxiguanli",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "42992529",
+      "name": "质量建模",
+      "font_class": "zhiliangjianmo",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "42992533",
+      "name": "生产资源",
+      "font_class": "shengchanziyuan",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "42992553",
+      "name": "产品追溯",
+      "font_class": "chanpinzhuisu-moren",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "42992554",
+      "name": "计划调度",
+      "font_class": "jihuatiaodu-moren",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "42992555",
+      "name": "生产执行",
+      "font_class": "shengchanzhihang-moren",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "42992557",
+      "name": "员工绩效",
+      "font_class": "yuangongjixiao-moren",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "42992576",
+      "name": "单据管理",
+      "font_class": "danjuguanli-moren",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "42992577",
+      "name": "库存管理",
+      "font_class": "a-kucunguanli-moren2",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "42992578",
+      "name": "库存管理",
+      "font_class": "kucunguanli-moren",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "42992579",
+      "name": "入库管理",
+      "font_class": "rukuguanli-moren",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "43047965",
+      "name": "设备程序管理",
+      "font_class": "shebeichengxuguanli-moren",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
